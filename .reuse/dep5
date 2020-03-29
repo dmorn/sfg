@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: sfg
+Upstream-Contact: jecoz <danielmorandini@me.com>
+Source: github.com/jecoz/sfg
+
+Files: README.md
+Copyright: 2020 jecoz <danielmorandini@me.com>
+License: CC-BY-1.0

@@ -11,7 +11,7 @@ crop(pepper).     % solanacee
 crop(lettuce).    % asteracee
 crop(onion).      % amaryllidaceae
 crop(squash).     % cucurbitacee (zucchini)
-crop(tomatoe).    % solanacee
+crop(tomato).    % solanacee
 
 likes(cocumber, green_bean).
 likes(cocumber, sweet_corn).
@@ -40,3 +40,9 @@ likes(squash, radish).
 likes(tomato, carrot).
 likes(tomato, onion).
 likes(tomato, lettuce).
+
+dislikes(green_bean, onion).
+dislikes(sweet_corn, tomato).
+dislikes(pepper, green_bean).
+dislikes(onion, green_bean).
+dislikes(tomato, sweet_corn).
